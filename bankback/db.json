@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 0.14823293350336564,
+      "email": "dsarifkulo021@gmail.com",
+      "name": "Daler",
+      "surname": "Sharifkulov",
+      "password": "2232"
+    },
+    {
+      "id": 0.11413117783105053,
+      "email": "nefor@gmail.com",
+      "name": "Temur",
+      "surname": "Adams",
+      "password": "1234"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "userid": 0.14823293350336564,
+      "name": "VISA",
+      "currency": "euro",
+      "total": 20000,
+      "pincode": 7777
+    },
+    {
+      "id": 2,
+      "userid": 0.14823293350336564,
+      "name": "HUMO",
+      "currency": "UZS",
+      "total": 20000,
+      "pincode": 1000
+    },
+    {
+      "id": 3,
+      "userid": 0.11413117783105053,
+      "name": "NEFOR",
+      "currency": "USD",
+      "total": 20000,
+      "pincode": 1988
+    }
+  ],
+  "transactions": []
+}
